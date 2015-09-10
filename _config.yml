@@ -3,10 +3,24 @@ title: Workshop Portfolio
 email: mw222rs@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
   This is the Workshop Portfolio for Mattias Wikstr&ouml;m, Jasmin Bejtovic and Anna Iosif.
-baseurl: "/1DV607-WorkshopPortfolio/" # the subpath of your site, e.g. /blog/
-url: "http://mw222rs.github.io/1DV607-WorkshopPortfolio" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:4000" #"http://mw222rs.github.io" # the base hostname & protocol for your site
 twitter_username:
-github_username:  mw222rs
+github_usernames:  
+  Anna: Angamanga
+  Jasmin: jb223cp
+  Mattias: mw222rs
+
 
 # Build settings
 markdown: kramdown
+
+
+contacts: 
+  Anna: ki222bj@student.lnu.se
+  Jasmin: jb223cp@student.lnu.se
+  Mattias: mw222rs@student.lnu.se
+
+
+# 
+# jb223cp@student.lnu.se
