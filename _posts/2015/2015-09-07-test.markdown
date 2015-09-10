@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Test"
+date: "2015-09-07 22:17"
+---
+
+# A new day
+
+When I woke up that morning I kinda didn't want to. 

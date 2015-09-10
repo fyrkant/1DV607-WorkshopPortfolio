@@ -2,8 +2,7 @@
 title: Workshop Portfolio
 email: mw222rs@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
-  This is the Workshop Portfolio for Mattias Wikstr&ouml;m (username: mw222rs)
-  for the course 1DV607.
+  This is the Workshop Portfolio for Mattias Wikstr&ouml;m, Jasmin Bejtovic and Anna Iosif.
 baseurl: "/1DV607-WorkshopPortfolio/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username:
