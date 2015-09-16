@@ -26,7 +26,7 @@ It is more suitable for developers then for domain experts. For example, the dom
 As stated by Larman (1, p.160), most attributes types should be of as primitive data types, such as numbers and booleans. The type BoatType as an attribute of Boat object is a complex domain concept.
 
 #### Do you think the model has passed the grade 2 (passing grade) criteria?
-Yes, it has! Maybe something about updating the membership fee should be added to the model (3. Use Case 4.6 Register boat).
+Yes, it has! Maybe something about updating the membership fee should be added to the model (2. Use Case 4.6 Register boat).
 
 ##### References:
 1. Larman C. Applying UML and Patterns 3rd Ed, 2005, ISBN: 0131489062

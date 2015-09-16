@@ -23,7 +23,7 @@ Examples of parts missing:
 The few objects that are present are named in a correct way and the relations between them are easily understood.
 
 #### What are the weaknesses of the model, what do you think should be changed and why?
-The model is too simplified, and it is not possible to see the bigger picture. It lacks many important features as the payment and the treasurer role. The model should be made with better UML notation. The relationships between some parts of the model should be done. For example the relationship between secretary and the member. That relationship is essential for understanding of real-world problem. Use relationships instead of some attributes(1. p161).
+The model is too simplified, and it is not possible to see the bigger picture. It lacks many important features as the payment and the treasurer role. The model should be made with better UML notation. The relationships between some parts of the model should be done. For example the relationship between secretary and the member. That relationship is essential for understanding of real-world problem. Use relationships instead of some attributes (1. p161).
 
 
 #### Do you think the model has passed the grade 2 (passing grade) criteria?
