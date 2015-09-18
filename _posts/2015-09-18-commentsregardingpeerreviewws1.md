@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comments regarding peer reviews for Workshop 1"
-date:   2015-09-16 11:50:00
+date:   2015-09-18 11:50:00
 categories: 1dv607 workshop1
 ---
 
