@@ -2,7 +2,7 @@
 layout: post
 title:  "Workshop 1 - Peer Review 2"
 date:   2015-09-16 11:30:00
-categories: 1dv607
+categories: 1dv607 workshop1
 ---
 Peer review regarding Adam Österlunds groups domain model. ([Link](https://github.com/ao222qc/1DV607_Workshops/blob/master/Workshop%201/domainmodeluppgift1.png) )
 

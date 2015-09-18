@@ -2,7 +2,7 @@
 layout: post
 title:  "Workshop 1 - Peer Review 1"
 date:   2015-09-16 11:30:00
-categories: 1dv607
+categories: 1dv607 workshop1
 ---
 
 Peer review regarding Daniel Nilssons groups domain model. ([Link](https://github.com/danielnilsson9/1DV607))
