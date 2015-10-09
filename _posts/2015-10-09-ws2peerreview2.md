@@ -5,7 +5,6 @@ date:   2015-10-09 11:30:00
 categories: 1dv607 workshop2
 ---
 
-
 Peer review regarding Alexandre Driaguines group.
 [https://github.com/ad222kr/1dv607](https://github.com/ad222kr/1dv607)
 
