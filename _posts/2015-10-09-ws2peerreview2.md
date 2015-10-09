@@ -5,8 +5,8 @@ date:   2015-10-09 11:30:00
 categories: 1dv607 workshop2
 ---
 
-### Regarding Alexandre Driaguines group
 
+Peer review regarding Alexandre Driaguines group.
 [https://github.com/ad222kr/1dv607](https://github.com/ad222kr/1dv607)
 
 #### Test the runnable version of the application in a realistic way. Note any problems/bugs.
@@ -22,16 +22,20 @@ The class diagram uses correct UML notation and no wrong relations or relations 
 
 Each controller could be a method inside AppController instead to make the application less complex.
 
-**Is there a model view separation?**
+* Is there a model view separation?
+
 There is a visible separation of model/view.
 
 * Is the model coupled to the user interface?
+
 No!
 
 * Is the model specialized for a certain kind of IU (for example returning formated strings to be printed)
+
 It is not. It throws exceptions, but the strings are not formated. We assume that it is good.
 
 * Are there domain rules in the UI?
+
 No, overall model/view separation is done good.
 
 #### Is the requirement of a unique member id correctly done?
@@ -40,12 +44,15 @@ It is done good, but the implementation is complicated. Instead of order of arra
 #### What is the quality of the implementation/source code?
 
 * Code Standards
+
 Implementation is not optimal (see previous question as example).
 
 * Naming
+
 Naming is good(1).
 
 * Duplication
+
 There is no duplication in code.
 
 * Dead Code
@@ -56,24 +63,31 @@ There is no visible dead code.
 Correct MVC implementation. *Objects are connected using associations and not with keys/ids.*
 
 * Is GRASP used correctly?
+
 As far as we can see, the GRASP patterns are followed (2 p291).
 
 * Classes have high cohesion and are not too large or have too much responsibility.
+
 The number of controller classes are too high in our opinion.
 
 * Classes have low coupling and are not too connected to other entities.
+
 Controller classes are too connected to other entities. This should have been done better. We wrote about this on following questions. 
 
 * Avoid the use of static variables or operations as well as global variables.
+
 There are no static variables or operations.
 
 * Avoid hidden dependencies.
+
 There is no hidden dependencies.
 
 * Information should be encapsulated.
+
 Information is encapsulated in private fields and there are access methods (getters and setters) to them.
 
 * Inspired from the Domain Model.
+
 Largely, yes.
 
 #### Primitive data types that should really be classes (painted types)
@@ -92,8 +106,5 @@ The code is a little bit messy with a lot of classes which makes it a bit hard t
 There could be some small corrections (for example .exe doesn’t works) but design/implementation has passed the grade 2 criteria.
 
 #### References:
-
 1. Naming Guidelines, [https://msdn.microsoft.com/en-us/library/ms229002(v=vs.110).aspx](https://msdn.microsoft.com/en-us/library/ms229002(v=vs.110).aspx)
-
 2. Larman C. Applying UML and Patterns 3rd Ed, 2005, ISBN: 0131489062
-
