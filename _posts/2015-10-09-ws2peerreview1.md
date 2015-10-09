@@ -46,6 +46,6 @@ There are no visible weaknesses. The model is done better then the view, but tha
 Yes, very much so.
 
 #### References:
-1. "C# coding conventions", [https://msdn.microsoft.com/en-us/library/ff926074.aspx](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
+1. CSharp coding conventions, [https://msdn.microsoft.com/en-us/library/ff926074.aspx](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
 1. Naming Guidelines, [https://msdn.microsoft.com/en-us/library/ms229002(v=vs.110).aspx](https://msdn.microsoft.com/en-us/library/ms229002(v=vs.110).aspx)
 1. Larman C. Applying UML and Patterns 3rd Ed, 2005, ISBN: 0131489062
