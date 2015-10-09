@@ -22,7 +22,7 @@ The class diagram uses correct UML notation and no wrong relations or relations 
 
 Each controller could be a method inside AppController instead to make the application less complex.
 
-* Is there a model view separation?
+**Is there a model view separation?**
 There is a visible separation of model/view.
 
 * Is the model coupled to the user interface?
