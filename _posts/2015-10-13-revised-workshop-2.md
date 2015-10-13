@@ -30,11 +30,6 @@ A ZIP with the executable file and a necessary JSONSerializer-extension dll can 
 ![ClassDiagram]({{ site.url }}{{ site.baseurl }}/assets/ws2RevisedClassDiagram.png)
 [Link to view bigger.]({{ site.url }}{{ site.baseurl }}/assets/ws2RevisedClassDiagram.png)
 
-## OLD Class diagram
-
-![ClassDiagram]({{ site.url }}{{ site.baseurl }}/assets/ClassDiagramWS2.png)
-[Link to view bigger.]({{ site.url }}{{ site.baseurl }}/assets/ClassDiagramWS2.png)
-
 ## Sequence diagram
 
 ### Input - Add new member
