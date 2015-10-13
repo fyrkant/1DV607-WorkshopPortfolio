@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: Revised Workshop 2
 date:   2015-10-13 13:59:47
 categories: 1dv607 workshop2
