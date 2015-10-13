@@ -59,34 +59,27 @@ There is no duplication in code.
 There is no visible dead code.
 
 #### What is the quality of the design? Is it Object Oriented?
-Correct MVC implementation. *Objects are connected using associations and not with keys/ids.*
+Correct MVC implementation. Objects are connected using associations and not with keys/ids.
 
 ##### Is GRASP used correctly?
-
-As far as we can see, the GRASP patterns are followed (2 p291).
+As far as we can see, the GRASP patterns are followed (2, p291).
 
 ##### Classes have high cohesion and are not too large or have too much responsibility.
-
 The number of controller classes are too high in our opinion.
 
 ##### Classes have low coupling and are not too connected to other entities.
-
 Controller classes are too connected to other entities. This should have been done better. We wrote about this on following questions. 
 
 ##### Avoid the use of static variables or operations as well as global variables.
-
 There are no static variables or operations.
 
 ##### Avoid hidden dependencies.
-
 There is no hidden dependencies.
 
 ##### Information should be encapsulated.
-
 Information is encapsulated in private fields and there are access methods (getters and setters) to them.
 
 ##### Inspired from the Domain Model.
-
 Largely, yes.
 
 #### Primitive data types that should really be classes (painted types)
@@ -102,8 +95,10 @@ Good Model/View separation. There is no dependencies between model and view.
 The code is a little bit messy with a lot of classes which makes it a bit hard to get into. Controllers could perhaps have been limited to one master controller without any real change in functionality and would have made the code a lot more readable. As it is now it is a little bit confusing to go through the flow of the program with all the small controller classes. 
 
 #### Do you think the design/implementation has passed the grade 2 criteria?
-There could be some small corrections (for example .exe doesn’t works) but design/implementation has passed the grade 2 criteria.
+There could be some small corrections (for example .exe doesnâ€™t works) but design/implementation has passed the grade 2 criteria.
 
 #### References:
-1. Naming Guidelines, [https://msdn.microsoft.com/en-us/library/ms229002(v=vs.110).aspx](https://msdn.microsoft.com/en-us/library/ms229002(v=vs.110).aspx)
+1. [Naming Guidelines][1]
 2. Larman C. Applying UML and Patterns 3rd Ed, 2005, ISBN: 0131489062
+
+[1]: https://msdn.microsoft.com/en-us/library/ms229002(v=vs.110).aspx

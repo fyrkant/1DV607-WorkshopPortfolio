@@ -11,9 +11,9 @@ github_usernames:
   Jasmin: jb223cp
   Mattias: mw222rs
 
-
 # Build settings
 markdown: kramdown
+encoding: utf-8
 
 contacts: 
   Anna: ki222bj@student.lnu.se
