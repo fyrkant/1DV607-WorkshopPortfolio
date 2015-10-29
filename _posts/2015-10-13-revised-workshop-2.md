@@ -6,10 +6,6 @@ categories: 1dv607 workshop2
 
 ---
 
-## Comments regarding revision
-
-After receiving our peer reviews we have revised our class diagram.
-
 ## Introduction
 
 For this workshop we decided to do three individual solutions, discuss them together after implementation and choose one to base our diagrams on. 
@@ -27,8 +23,8 @@ A ZIP with the executable file and a necessary JSONSerializer-extension dll can 
 
 ## REVISED Class diagram
 
-![ClassDiagram]({{ site.url }}{{ site.baseurl }}/assets/ws2RevisedClassDiagram.png)
-[Link to view bigger.]({{ site.url }}{{ site.baseurl }}/assets/ws2RevisedClassDiagram.png)
+![ClassDiagram]({{ site.url }}{{ site.baseurl }}/assets/ws2cdfinal.png)
+[Link to view bigger.]({{ site.url }}{{ site.baseurl }}/assets/ws2cdfinal.png)
 
 ## Sequence diagram
 
